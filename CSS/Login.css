@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(19, 18, 16);
+}
+.container{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 13px;
+    margin: 0%;
+}
+
+#object1{
+    float: left;
+    width: 110px;
+    height: 80px;
+}
+
+button{
+  float: right;
+  padding: 2%;
+  background-color: red;
+  color: black;
+  
+}
+
+.cont{
+    background-color: red;
+    padding: 10px;
+}
+
+a{
+    color: white;
+}
+
+.midtop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+   
+
+.object2{
+    width: 50%;
+    height: 100px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding: 50px;
+    background-color: red;
+    color: white;
+}
+
+
+.cont1 {
+    text-align: center;
+    width: 400px;
+    height: 200px;
+}
+
+.btnsign {
+    width: 300px;
+    color: white;
+}
+
+.bottom1 {
+    width: 400px;
+    height: 40px;
+    color: white;
+    text-align: justify;
+}
+
+input[type=text] {
+    text-align: left;
+    width: 300px;
+}
+
+input[type=password] {
+    text-align: left;
+    width: 300px;
+}
+
+label {
+    float: left;
+    margin-right: 5px 0px;
+    min-width: 220px;
+
+}
+
+input[type="checkbox"] {
+    accent-color: red;
+
+}
+
+in {
+    color: black;
+}
+
+a {
+    color: red;
+
+}
+
+.formcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 50%;
+    height: 50%;
+}
+
+form {
+    background-color: black;
+    padding: 35px;
+}
